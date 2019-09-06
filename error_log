@@ -1,0 +1,13 @@
+[10-May-2018 08:18:51 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/victorsu/public_html/sacco/db.php on line 3
+[10-May-2018 08:18:51 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/victorsu/public_html/sacco/db.php on line 3
+[10-May-2018 08:19:08 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/victorsu/public_html/sacco/db.php on line 3
+[10-May-2018 08:19:08 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/victorsu/public_html/sacco/db.php on line 3
+[10-May-2018 08:19:28 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/victorsu/public_html/sacco/db.php on line 3
+[10-May-2018 08:19:28 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/victorsu/public_html/sacco/db.php on line 3
+[10-May-2018 08:20:13 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/victorsu/public_html/sacco/db.php on line 3
+[10-May-2018 08:20:13 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/victorsu/public_html/sacco/db.php on line 3
+[10-May-2018 08:28:10 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/victorsu/public_html/sacco/login.php on line 11
+[10-May-2018 15:48:12 Africa/Kampala] PHP Warning:  move_uploaded_file(photos/Gs041d0e5d-b104-4c93-913a-9a563ec8c57f.jpg): failed to open stream: No such file or directory in /home/victorsu/public_html/sacco/register.php on line 274
+[10-May-2018 15:48:12 Africa/Kampala] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpQMazFq' to 'photos/Gs041d0e5d-b104-4c93-913a-9a563ec8c57f.jpg' in /home/victorsu/public_html/sacco/register.php on line 274
+[10-May-2018 18:11:32 Africa/Kampala] PHP Warning:  move_uploaded_file(photos/CHARLES.JPG): failed to open stream: No such file or directory in /home/victorsu/public_html/sacco/register.php on line 232
+[10-May-2018 18:11:32 Africa/Kampala] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpUM3f9q' to 'photos/CHARLES.JPG' in /home/victorsu/public_html/sacco/register.php on line 232
